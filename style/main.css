@@ -6,6 +6,7 @@
 body{
     background: var(--preto);
     font-family: 'Times New Roman', Times, serif;
+    color: white;
 }
 
 /* Reset do html*/
